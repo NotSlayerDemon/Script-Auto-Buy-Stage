@@ -8,7 +8,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").RemoteEvent:FireServer(unpack(args))
-wait(0.5)
+wait(0)
 local args = {
     [1] = {
         [1] = "BuyItem",
@@ -19,7 +19,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").RemoteEvent:FireServer(unpack(args))
-wait(0.5)
+wait(0)
 local args = {
     [1] = {
         [1] = "BuyItem",
@@ -30,7 +30,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").RemoteEvent:FireServer(unpack(args))
-wait(0.5)
+wait(0)
 local args = {
     [1] = {
         [1] = "BuyItem",
@@ -41,7 +41,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").RemoteEvent:FireServer(unpack(args))
-wait(0.5)
+wait(0)
 local args = {
     [1] = {
         [1] = "BuyItem",
@@ -52,7 +52,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").RemoteEvent:FireServer(unpack(args))
-wait(0.5)
+wait(0)
 local args = {
     [1] = {
         [1] = "BuyItem",
@@ -63,7 +63,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").RemoteEvent:FireServer(unpack(args))
-wait(0.5)
+wait(0)
 local args = {
     [1] = {
         [1] = "BuyItem",
@@ -74,7 +74,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").RemoteEvent:FireServer(unpack(args))
-wait(0.5)
+wait(0)
 local args = {
     [1] = {
         [1] = "BuyItem",
@@ -85,7 +85,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").RemoteEvent:FireServer(unpack(args))
-wait(0.5)
+wait(0)
 local args = {
     [1] = {
         [1] = "BuyItem",
@@ -96,7 +96,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").RemoteEvent:FireServer(unpack(args))
-wait(0.5)
+wait(0)
 local args = {
     [1] = {
         [1] = "BuyItem",
@@ -107,7 +107,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").RemoteEvent:FireServer(unpack(args))
-wait(0.5)
+wait(0)
 local args = {
     [1] = {
         [1] = "BuyItem",
@@ -118,7 +118,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").RemoteEvent:FireServer(unpack(args))
-wait(0.5)
+wait(0)
 local args = {
     [1] = {
         [1] = "BuyItem",
@@ -129,7 +129,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").RemoteEvent:FireServer(unpack(args))
-wait(0.5)
+wait(0)
 local args = {
     [1] = {
         [1] = "BuyItem",
@@ -140,7 +140,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").RemoteEvent:FireServer(unpack(args))
-wait(0.5)
+wait(0)
 local args = {
     [1] = {
         [1] = "BuyItem",
@@ -151,7 +151,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").RemoteEvent:FireServer(unpack(args))
-wait(0.5)
+wait(0)
 local args = {
     [1] = {
         [1] = "BuyItem",
@@ -162,7 +162,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").RemoteEvent:FireServer(unpack(args))
-wait(0.5)
+wait(0)
 local args = {
     [1] = {
         [1] = "BuyItem",
@@ -173,7 +173,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").RemoteEvent:FireServer(unpack(args))
-wait(0.5)
+wait(0)
 local args = {
     [1] = {
         [1] = "BuyItem",
@@ -184,7 +184,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").RemoteEvent:FireServer(unpack(args))
-wait(0.5)
+wait(0)
 local args = {
     [1] = {
         [1] = "BuyItem",
@@ -195,7 +195,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").RemoteEvent:FireServer(unpack(args))
-wait(0.5)
+wait(0)
 local args = {
     [1] = {
         [1] = "BuyItem",
@@ -206,7 +206,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").RemoteEvent:FireServer(unpack(args))
-wait(0.5)
+wait(0)
 local args = {
     [1] = {
         [1] = "BuyItem",
@@ -217,7 +217,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").RemoteEvent:FireServer(unpack(args))
-wait(0.5)
+wait(0)
 local args = {
     [1] = {
         [1] = "BuyItem",
@@ -228,7 +228,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").RemoteEvent:FireServer(unpack(args))
-wait(0.5)
+wait(0)
 local args = {
     [1] = {
         [1] = "BuyItem",
@@ -239,7 +239,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").RemoteEvent:FireServer(unpack(args))
-wait(0.5)
+wait(0)
 local args = {
     [1] = {
         [1] = "BuyItem",
@@ -250,7 +250,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").RemoteEvent:FireServer(unpack(args))
-wait(0.5)
+wait(0)
 local args = {
     [1] = {
         [1] = "BuyItem",
@@ -261,7 +261,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").RemoteEvent:FireServer(unpack(args))
-wait(0.5)
+wait(0)
 local args = {
     [1] = {
         [1] = "BuyItem",
@@ -272,7 +272,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").RemoteEvent:FireServer(unpack(args))
-wait(0.5)
+wait(0)
 local args = {
     [1] = {
         [1] = "BuyItem",
@@ -283,7 +283,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").RemoteEvent:FireServer(unpack(args))
-wait(0.5)
+wait(0)
 local args = {
     [1] = {
         [1] = "BuyItem",
@@ -294,7 +294,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").RemoteEvent:FireServer(unpack(args))
-wait(0.5)
+wait(0)
 local args = {
     [1] = {
         [1] = "BuyItem",
@@ -305,7 +305,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").RemoteEvent:FireServer(unpack(args))
-wait(0.5)
+wait(0)
 local args = {
     [1] = {
         [1] = "BuyItem",
@@ -316,7 +316,7 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").RemoteEvent:FireServer(unpack(args))
-wait(0.5)
+wait(0)
 local args = {
     [1] = {
         [1] = "BuyItem",
